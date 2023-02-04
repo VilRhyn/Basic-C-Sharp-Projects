@@ -1,0 +1,7 @@
+C:\Users\Owner\Desktop\Basic_C#_Programs\MathChallenge\MathChallenge\bin\Debug\MathChallenge.exe.config
+C:\Users\Owner\Desktop\Basic_C#_Programs\MathChallenge\MathChallenge\bin\Debug\MathChallenge.exe
+C:\Users\Owner\Desktop\Basic_C#_Programs\MathChallenge\MathChallenge\bin\Debug\MathChallenge.pdb
+C:\Users\Owner\Desktop\Basic_C#_Programs\MathChallenge\MathChallenge\obj\Debug\MathChallenge.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\Basic_C#_Programs\MathChallenge\MathChallenge\obj\Debug\MathChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\Basic_C#_Programs\MathChallenge\MathChallenge\obj\Debug\MathChallenge.exe
+C:\Users\Owner\Desktop\Basic_C#_Programs\MathChallenge\MathChallenge\obj\Debug\MathChallenge.pdb
