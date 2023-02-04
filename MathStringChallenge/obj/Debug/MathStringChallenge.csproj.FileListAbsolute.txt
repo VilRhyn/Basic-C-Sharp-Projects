@@ -1,0 +1,7 @@
+C:\Users\Owner\Desktop\Basic_C#_Programs\MathStringChallenge\MathStringChallenge\bin\Debug\MathStringChallenge.exe.config
+C:\Users\Owner\Desktop\Basic_C#_Programs\MathStringChallenge\MathStringChallenge\bin\Debug\MathStringChallenge.exe
+C:\Users\Owner\Desktop\Basic_C#_Programs\MathStringChallenge\MathStringChallenge\bin\Debug\MathStringChallenge.pdb
+C:\Users\Owner\Desktop\Basic_C#_Programs\MathStringChallenge\MathStringChallenge\obj\Debug\MathStringChallenge.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\Basic_C#_Programs\MathStringChallenge\MathStringChallenge\obj\Debug\MathStringChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\Basic_C#_Programs\MathStringChallenge\MathStringChallenge\obj\Debug\MathStringChallenge.exe
+C:\Users\Owner\Desktop\Basic_C#_Programs\MathStringChallenge\MathStringChallenge\obj\Debug\MathStringChallenge.pdb
