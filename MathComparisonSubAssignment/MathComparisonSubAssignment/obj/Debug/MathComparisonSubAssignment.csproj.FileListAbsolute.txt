@@ -1,0 +1,7 @@
+C:\Users\Owner\Desktop\Basic_C#_Programs\MathComparisonSubAssignment\MathComparisonSubAssignment\bin\Debug\MathComparisonSubAssignment.exe.config
+C:\Users\Owner\Desktop\Basic_C#_Programs\MathComparisonSubAssignment\MathComparisonSubAssignment\bin\Debug\MathComparisonSubAssignment.exe
+C:\Users\Owner\Desktop\Basic_C#_Programs\MathComparisonSubAssignment\MathComparisonSubAssignment\bin\Debug\MathComparisonSubAssignment.pdb
+C:\Users\Owner\Desktop\Basic_C#_Programs\MathComparisonSubAssignment\MathComparisonSubAssignment\obj\Debug\MathComparisonSubAssignment.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\Basic_C#_Programs\MathComparisonSubAssignment\MathComparisonSubAssignment\obj\Debug\MathComparisonSubAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\Basic_C#_Programs\MathComparisonSubAssignment\MathComparisonSubAssignment\obj\Debug\MathComparisonSubAssignment.exe
+C:\Users\Owner\Desktop\Basic_C#_Programs\MathComparisonSubAssignment\MathComparisonSubAssignment\obj\Debug\MathComparisonSubAssignment.pdb
