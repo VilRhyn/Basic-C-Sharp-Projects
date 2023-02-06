@@ -1,0 +1,7 @@
+C:\Users\Owner\Desktop\Basic_C#_Programs\Boolean Logic Assignment\Boolean Logic Assignment\bin\Debug\Boolean Logic Assignment.exe.config
+C:\Users\Owner\Desktop\Basic_C#_Programs\Boolean Logic Assignment\Boolean Logic Assignment\bin\Debug\Boolean Logic Assignment.exe
+C:\Users\Owner\Desktop\Basic_C#_Programs\Boolean Logic Assignment\Boolean Logic Assignment\bin\Debug\Boolean Logic Assignment.pdb
+C:\Users\Owner\Desktop\Basic_C#_Programs\Boolean Logic Assignment\Boolean Logic Assignment\obj\Debug\Boolean Logic Assignment.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\Basic_C#_Programs\Boolean Logic Assignment\Boolean Logic Assignment\obj\Debug\Boolean Logic Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\Basic_C#_Programs\Boolean Logic Assignment\Boolean Logic Assignment\obj\Debug\Boolean Logic Assignment.exe
+C:\Users\Owner\Desktop\Basic_C#_Programs\Boolean Logic Assignment\Boolean Logic Assignment\obj\Debug\Boolean Logic Assignment.pdb
