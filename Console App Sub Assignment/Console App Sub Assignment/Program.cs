@@ -6,27 +6,42 @@ namespace Console_App_Sub_Assignment
     {
         static void Main()
         {
-            //Asks the user a question
-            Console.WriteLine("Pick a number");
-            //age converts to int datatype(variable) named: age
-            int num = Convert.ToInt32(Console.ReadLine());
-         
-            //while statement is true run loop
-            while (num <100)
-            {
-                //while statement is true write : 
-                Console.WriteLine("Number plus one= " + num);
 
-                //This adds plus one to the variable every time the loops goes around
-                num++;
+            ////WHILE LOOP 
+            //int A = 0;//Condition
 
-                //if number is less than 101 than loop repeats. if it hits 101 then loop breaks.
-                if (num > 101)
-                    break;
-            }
-          
+            
+            //while (true)//while condition == true Write :
+            //{
+            //    Console.WriteLine(A);
+            //    A++;//A goes up by 1 each loop
 
-            Console.Read();
+            //    if (A > 10)//Loop stops @ 10
+            //        break;
+            //}
+            //Console.Read();
+
+            ////-----------------------------------//
+            ////-----------------------------------//
+
+            ////DO WHILE LOOP
+            //int a = 0;
+
+            //do//do this loop until a = greater than 5
+            //{
+            //    Console.WriteLine(a);
+
+            //    a++;//adds one to a every loop
+
+            //    if (a > 5)//breaks the loop once parameter is met
+            //        break;
+
+            //} while (a < 6);//do the above loop WHILE number (a) is less than 6
+
+            //Console.Read();
+
+
+
         }
 
     }
