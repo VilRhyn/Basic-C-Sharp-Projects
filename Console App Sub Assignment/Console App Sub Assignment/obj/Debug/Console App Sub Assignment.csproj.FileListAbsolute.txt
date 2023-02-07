@@ -1,0 +1,7 @@
+C:\Users\Owner\Desktop\Basic_C#_Programs\Console App Sub Assignment\Console App Sub Assignment\bin\Debug\Console App Sub Assignment.exe.config
+C:\Users\Owner\Desktop\Basic_C#_Programs\Console App Sub Assignment\Console App Sub Assignment\bin\Debug\Console App Sub Assignment.exe
+C:\Users\Owner\Desktop\Basic_C#_Programs\Console App Sub Assignment\Console App Sub Assignment\bin\Debug\Console App Sub Assignment.pdb
+C:\Users\Owner\Desktop\Basic_C#_Programs\Console App Sub Assignment\Console App Sub Assignment\obj\Debug\Console App Sub Assignment.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\Basic_C#_Programs\Console App Sub Assignment\Console App Sub Assignment\obj\Debug\Console App Sub Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\Basic_C#_Programs\Console App Sub Assignment\Console App Sub Assignment\obj\Debug\Console App Sub Assignment.exe
+C:\Users\Owner\Desktop\Basic_C#_Programs\Console App Sub Assignment\Console App Sub Assignment\obj\Debug\Console App Sub Assignment.pdb
