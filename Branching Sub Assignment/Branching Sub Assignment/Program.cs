@@ -11,7 +11,7 @@ namespace Branching_Sub_Assignment
             int packageWeight = Convert.ToInt32(Console.ReadLine());
             
             //shuts down the program if weight is too heavy
-            if (packageWeight >= 50) 
+            if (packageWeight > 50) 
             {
                 Console.WriteLine("Package too heavy to be shipped via Package Express. Have a good day.");
             }    
@@ -29,7 +29,7 @@ namespace Branching_Sub_Assignment
             //creating packageDimension variable 
             int packageDimensions = packageWidth + packageHeight + packageLength;
           
-            if (packageDimensions < 50)
+            if (packageDimensions <= 50)
             {
                 //creating a math equation for timesing the width, heigh, and length together, then timesing it by the weight of the package 
                 int packageCost = (packageWidth * packageHeight * packageLength) * packageWeight;
@@ -39,7 +39,7 @@ namespace Branching_Sub_Assignment
             }
 
             //if dimensions greater than or equal to 50 than write : 
-            else if (packageDimensions >= 50) ;
+            else if (packageDimensions >= 50) 
             {
                 Console.WriteLine("Package too heavy to be shipped via Package Express. Have a good day.");
             }
